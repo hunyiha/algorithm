@@ -12,3 +12,6 @@ logs/
 .settings/
 .classpath
 .project
+
+# java #
+out/
